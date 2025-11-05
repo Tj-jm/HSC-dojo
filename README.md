@@ -8,7 +8,7 @@
 **HSC-Dojo** is a Laravel-based online learning platform launched during the early months of the COVID-19 pandemic (2020).
 At a time when physical classrooms were closed, it emerged as **Bangladesh’s first complete digital education system**, enabling students nationwide to continue structured study, practice, and interaction remotely.
 
-The platform integrated lessons, practice modules, exams, and instructor support into one coherent ecosystem — effectively laying the groundwork for modern successors such as *ScienceMasterBD* and *SageEngine AI*.
+The platform integrated lessons, practice modules, exams, and instructor support into one coherent ecosystem — effectively laying the groundwork for modern successors.
 
 This repository preserves the **original Laravel 7 codebase** as a historical and technical archive of that landmark development.
 
@@ -62,10 +62,10 @@ This repository preserves the **original Laravel 7 codebase** as a historical an
 
 ## 🏛️ Historical Significance
 
-Developed in early 2020 by **Turjo Jaman** and his team under *Studio-T*, HSC-Dojo became the **first fully integrated EdTech ecosystem of Bangladesh**.
+Developed in early 2020 by **Nur A Jaman** and his team under *Studio-T*, HSC-Dojo became the **first fully integrated EdTech ecosystem of Bangladesh**.
 Its launch marked a pivotal shift in national education delivery — pioneering blended learning, 24/7 teacher interaction, and structured online practice long before such systems became mainstream.
 
-It set the conceptual and architectural foundations later refined in *ScienceMasterBD* and *SageEngine AI*, making it a cornerstone in the country’s EdTech evolution.
+It set the conceptual and architectural foundations, making it a cornerstone in the country’s EdTech evolution.
 
 ---
 
@@ -141,7 +141,7 @@ It is not under active development but stands as a technical and historical mile
 ## 📄 License
 
 **Proprietary Software — All Rights Reserved**
-© 2019–2025 Turjo Jaman
+© 2019–2025 Nur A Jaman
 
 Unauthorized copying, modification, or redistribution is prohibited without written permission.
 
@@ -162,6 +162,6 @@ This video showcases the complete system architecture, interface, and functional
 
 ## 📬 Contact
 
-Developed by **Turjo Jaman**
+Developed by **Nur A Jaman**
 - Website: [turjo-jaman.com](https://turjo-jaman.com)
 - GitHub: [@Tj-jm](https://github.com/Tj-jm)
