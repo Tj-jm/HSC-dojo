@@ -1,0 +1,82 @@
+# =========================
+# Laravel / PHP Ignore List
+# =========================
+
+# Environment files (never commit secrets)
+.env
+.env.*.backup
+.env.local
+.env.development
+.env.production
+.env.testing
+
+# Laravel specific
+/vendor/
+node_modules/
+bootstrap/cache/
+storage/*.key
+storage/app/public
+storage/debugbar
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/testing/*
+storage/framework/views/*
+storage/logs/*
+
+# IDE / Editor junk
+.idea/
+.vscode/
+nbproject/
+*.sublime-project
+*.sublime-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Composer / NPM artifacts
+composer.lock
+package-lock.json
+yarn.lock
+npm-debug.log
+composer.phar
+
+# PHPUnit / Coverage reports
+.phpunit.result.cache
+coverage/
+.php_cs.cache
+phpunit.xml
+phpunit.xml.dist
+
+# Logs / Cache / Backups
+*.log
+*.bak
+*.tmp
+*.cache
+
+# Local build artifacts
+/public/storage
+/public/hot
+/public/mix-manifest.json
+
+# Deployment / Config / IDE cache
+.env.backup
+Homestead.json
+Homestead.yaml
+/.vagrant
+/.env.example.local
+
+# Optional: OS specific for Windows and macOS
+*.lnk
+*.swp
+*.swx
+*.orig
+*.tmp
+*~
+
+# =========================
+# END
+# =========================
